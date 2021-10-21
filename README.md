@@ -12,3 +12,4 @@ see https://www.instructables.com/id/Raspberry-Pi-water-alarm-system/
   This PSU is cheap and generates 12V and 5V out of the box. Wire pins can be used to connect the raspberry pi and the watersenser (no soldering required)
 * Watersensor: https://www.pollin.at/p/bausatz-wassermelder-810141
 
+
